@@ -1,98 +1,247 @@
-GitHub Profile README
-> **Note:** This is a starter premium README tailored for Sai Kirthana Konduru. Replace placeholder links (portfolio, coding profiles) as needed.
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=220&section=header&text=Sai%20Kirthana%20Konduru&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Engineer;Machine+Learning+Developer;Power+BI+Enthusiast;Always+Learning+Something+New"/>
-</p>
-<p align="center">
-<a href="https://github.com/Kirthana270405"><img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com/in/saikirthanakonduru"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:kkirthi2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=Kirthana270405&style=for-the-badge"/>
-</p>
----
-💫 About Me
-```yaml
-name: Sai Kirthana Konduru
-degree: B.Tech AI & Data Science
-college: CBIT Hyderabad
-cgpa: 8.60/10
+<h1 align="center">Hi 👋, I'm Sai Kirthana Konduru</h1>
 
-focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Engineering
-  - Power BI
-  - Full Stack AI
+<h3 align="center">
+Artificial Intelligence & Data Science Student | AI Engineer | Data Analyst | Data Engineer | Machine Learning
+</h3>
 
-currently_learning:
-  - LLMs
-  - Agentic AI
-  - MLOps
-  - Cloud Computing
-```
-💻 Tech Stack
-Languages: Python • Java • SQL • R
-Libraries: Pandas • NumPy • Scikit-Learn • Streamlit • Matplotlib
-Data: Power BI • DAX • ETL • Data Cleaning
-Database: MongoDB • MySQL
-Tools: Git • GitHub • VS Code • Azure • Google Colab
----
-💼 Experience
-AI/ML Engineer Intern — Quadrant Resources
-ML workflows
-Feature Engineering
-Model Training
-Evaluation
-Data Engineering Intern — Quadrant Resources
-Dynamic ETL
-Metadata Generation
-Validation Reports
-Data Analytics Intern — Future Interns
-Power BI Dashboards
-DAX
-Business Analytics
----
-🚀 Featured Projects
-<details>
-<summary><b>🎨 VisionCraft AI</b></summary>
-AI poster generation using NLP + Stable Diffusion + Streamlit.
-</details>
-<details>
-<summary><b>🚗 RoadCodeX</b></summary>
-Unity 3D driving simulation game.
-</details>
-<details>
-<summary><b>📊 Business Sales Dashboard</b></summary>
-Interactive Power BI dashboard with DAX.
-</details>
-<details>
-<summary><b>🧹 Dynamic ETL Pipeline</b></summary>
-Automated cleaning, metadata, validation and visualization.
-</details>
----
-🏆 Certifications
-AWS CloudOps Engineer Associate
-Salesforce Agentforce Specialist
----
-📈 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight"/>
+<img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirthana270405&theme=tokyonight"/>
+
+<a href="https://github.com/Kirthana270405">
+<img src="https://img.shields.io/github/followers/Kirthana270405?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saikirthanakonduru">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kkirthi2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true"/>
-</p>
+
 ---
-📫 Connect
-Email: kkirthi2005@gmail.com
-LinkedIn: https://linkedin.com/in/saikirthanakonduru
-GitHub: https://github.com/Kirthana270405
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF,7F5AF0,4F46E5&height=120&section=footer"/>
+
+# 💫 About Me
+
+🎓 Fourth-Year B.Tech Artificial Intelligence & Data Science Student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
+
+💡 Passionate about solving real-world problems using **Artificial Intelligence, Data Analytics, Data Engineering, Machine Learning, Business Intelligence, and Software Development.**
+
+📊 I enjoy transforming raw data into meaningful insights through analytics, visualization, Machine Learning, ETL pipelines, and Business Intelligence dashboards.
+
+🚀 Interested in AI Engineering, Data Analytics, Data Engineering, Generative AI, Business Intelligence, Cloud Computing, and Software Development.
+
+🌱 Currently exploring **Large Language Models (LLMs), Agentic AI, MLOps, Cloud Computing, and Advanced Machine Learning.**
+
+---
+
+# 🎓 Education
+
+🏫 **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**
+
+**Bachelor of Technology (B.Tech)**
+
+**Artificial Intelligence & Data Science**
+
+📅 **2023 – 2027**
+
+⭐ **CGPA 8.60 / 10**
+
+---
+
+# 💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql"/>
 </p>
+
+**Languages:** `Python` • `Java` • `SQL` • `R`
+
+---
+
+### 📚 Computer Science Fundamentals
+
+🧩 **Data Structures & Algorithms** • 🏗️ **Object-Oriented Programming (OOP)** • 🗄️ **Database Management Systems**
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+**Databases:** `MongoDB` • `MySQL`
+
+---
+
+### 🤖 Artificial Intelligence & Data Science
+
+🧠 **Artificial Intelligence** • 🤖 **Machine Learning** • 📊 **Data Analytics** • 📈 **Data Science** • 📉 **Data Visualization** • 🧹 **Data Cleaning** • ⚙️ **Feature Engineering** • 🧪 **Model Training & Evaluation**
+
+---
+
+### 📊 Analytics & Visualization
+
+📊 **Power BI** • 📑 **DAX** • 🐼 **Pandas** • 🔢 **NumPy** • 📉 **Matplotlib** • ⚙️ **Scikit-Learn** • 📋 **ETL Pipelines** • 📈 **Exploratory Data Analysis (EDA)**
+
+---
+
+### ☁️ Cloud & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+**Tools:** `Microsoft Azure` • `Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab` • `MS Office`
+
+---
+
+### ⚡ Soft Skills
+
+🧩 **Problem Solving** • 🧠 **Analytical Thinking** • 🤝 **Team Collaboration** • 💬 **Communication** • 📚 **Continuous Learning**
+
+---
+
+# 💼 Experience
+
+### 🤖 AI/ML Engineer Intern — Quadrant Resources Pvt. Ltd.
+
+**📅 December 2025 – January 2026**
+
+- Built machine learning workflows using Python.
+- Performed data preprocessing and feature engineering.
+- Trained and evaluated classification models.
+- Worked on Exploratory Data Analysis (EDA).
+
+---
+
+### 📊 Data Engineering Intern — Quadrant Resources Pvt. Ltd.
+
+**📅 June 2025 – July 2025**
+
+- Developed dynamic ETL pipelines.
+- Generated statistical metadata.
+- Cleaned and validated structured datasets.
+- Automated reporting and visualizations.
+
+---
+
+### 📈 Data Analytics Intern — Future Interns
+
+**📅 July 2025**
+
+- Built interactive Power BI dashboards.
+- Created DAX measures and calculated columns.
+- Analyzed business datasets to identify trends and patterns.
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 RoadCodeX — Virtual Driving School
+
+Unity-based 3D Driving Simulator.
+
+- Unity 3D
+- C#
+- Vehicle Physics
+- Collision Detection
+- Interactive User Interface
+
+---
+
+## 📊 Business Sales Dashboard
+
+Interactive Business Intelligence Dashboard.
+
+- Power BI
+- DAX
+- Data Visualization
+- Business Analytics
+- KPI Reporting
+
+---
+
+## 🧹 Dynamic ETL Pipeline
+
+Automated Data Engineering Pipeline.
+
+- Dynamic Data Cleaning
+- Metadata Generation
+- Dataset Validation
+- Statistical Analysis
+- JSON Reports
+- Automated Visualizations
+
+---
+
+# 🏆 Certifications
+
+🏅 AWS Certified CloudOps Engineer – Associate
+
+🏅 Salesforce Certified Agentforce Specialist
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+[![Kirthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true)](https://github.com/Kirthana270405)
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 🛠 Data Engineering
+- 📈 Machine Learning
+- 📉 Business Intelligence
+- ⚡ Generative AI
+- 🧠 Large Language Models (LLMs)
+- ☁️ Cloud Computing
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** kkirthi2005@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/saikirthanakonduru
+
+🐙 **GitHub:** https://github.com/Kirthana270405
+
+---
+
+<h3 align="center">
+⭐ Building intelligent solutions through AI, data, and continuous learning.
+</h3>
