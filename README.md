@@ -300,23 +300,63 @@ Artificial Intelligence & Data Science Student
 
 ---
 
-## 💡 Technical Highlights
+## 💡 Core Expertise
 
-✔ Machine Learning
+<table>
 
-✔ Data Analytics
+<tr>
 
-✔ Data Engineering
+<td width="50%">
 
-✔ ETL Pipelines
+### 🤖 Artificial Intelligence
 
-✔ Business Intelligence
+- Machine Learning
+- Model Training & Evaluation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
 
-✔ Dashboard Development
+</td>
 
-✔ Data Visualization
+<td width="50%">
 
-✔ Python Automation
+### 📊 Data Analytics
+
+- Power BI Dashboards
+- Business Intelligence
+- KPI Reporting
+- Data Visualization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙️ Data Engineering
+
+- ETL Pipelines
+- Data Cleaning
+- Metadata Generation
+- Dataset Validation
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Development
+
+- Python Automation
+- Java Programming
+- SQL Development
+- Problem Solving
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
