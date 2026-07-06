@@ -1,31 +1,37 @@
-<!-- ============================== -->
-<!-- Animated Header -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+<!--                 ANIMATED HEADER                            -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00E5FF,100:7F00FF&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Data%20Engineer%20|%20Data%20Analyst&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Data%20Engineering&descAlignY=58"/>
 </p>
 
 <h1 align="center">
+
 Hi 👋 I'm Sai Kirthana Konduru
+
 </h1>
 
 <h3 align="center">
+
 Artificial Intelligence & Data Science Student
+
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=AI+Engineer;Data+Engineer;Data+Analyst;Machine+Learning+Engineer;Power+BI+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=7F5AF0&lines=AI+Engineer;Data+Analyst;Data+Engineer;Machine+Learning+Engineer;Power+BI+Developer;Always+Learning+New+Technologies"/>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
 
 <a href="https://github.com/Kirthana270405">
-<img src="https://img.shields.io/github/followers/Kirthana270405?logo=github&style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&color=7F5AF0"/>
 </a>
 
 <a href="https://www.linkedin.com/in/saikirthanakonduru">
@@ -42,15 +48,33 @@ Artificial Intelligence & Data Science Student
 
 # 💫 About Me
 
-🎓 Fourth-Year B.Tech Artificial Intelligence & Data Science Student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
+🎓 Fourth-Year **B.Tech Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**.
 
-💡 Passionate about solving real-world problems using **Artificial Intelligence, Data Analytics, Data Engineering, Machine Learning, Business Intelligence, and Software Development.**
+💡 Passionate about **Artificial Intelligence, Data Analytics, Data Engineering, Machine Learning, Business Intelligence, and Software Development.**
 
-📊 I enjoy transforming raw data into meaningful insights through analytics, visualization, Machine Learning, ETL pipelines, and Business Intelligence dashboards.
+📊 Experienced in building **Machine Learning models, ETL pipelines, Business Intelligence dashboards, data visualization solutions, and data-driven applications.**
 
-🚀 Interested in AI Engineering, Data Analytics, Data Engineering, Generative AI, Business Intelligence, Cloud Computing, and Software Development.
+🚀 Interested in **AI Engineering, Data Analytics, Data Engineering, Generative AI, Business Intelligence, Cloud Computing, and Software Development.**
 
 🌱 Currently exploring **Large Language Models (LLMs), Agentic AI, MLOps, Cloud Computing, and Advanced Machine Learning.**
+
+---
+
+## 🌟 Quick Highlights
+
+✨ AI & Data Science Student
+
+📊 Data Analytics & Business Intelligence Enthusiast
+
+⚙️ Data Engineering & ETL Pipeline Development
+
+🤖 Machine Learning Practitioner
+
+📈 Power BI Dashboard Developer
+
+☁️ Exploring Cloud Computing & MLOps
+
+🚀 Passionate about solving real-world business problems using AI and Data
 
 ---
 
@@ -58,7 +82,7 @@ Artificial Intelligence & Data Science Student
 
 🏫 **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**
 
-🎓 **Bachelor of Technology (B.Tech)**
+**Bachelor of Technology (B.Tech)**
 
 **Artificial Intelligence & Data Science**
 
@@ -72,176 +96,144 @@ Artificial Intelligence & Data Science Student
 
 ## 👨‍💻 Programming Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,r,mysql&theme=dark"/>
 </p>
 
-<p align="center">
-
-`Python`
-•
-`Java`
-•
-`SQL`
-•
-`R`
-
-</p>
+**Languages:** `Python` • `Java` • `SQL` • `R`
 
 ---
 
 ## 📚 Computer Science Fundamentals
 
-<p align="center">
+🧩 **Data Structures & Algorithms**
 
-🧩 **Data Structures & Algorithms** • 🏗️ **Object-Oriented Programming (OOP)** • 🗄️ **Database Management Systems**
+🏗️ **Object-Oriented Programming (OOP)**
 
-</p>
+🗄️ **Database Management Systems**
 
 ---
 
 ## 🗄️ Databases
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
 </p>
 
-<p align="center">
-
-`MongoDB`
-•
-`MySQL`
-
-</p>
+**Databases:** `MongoDB` • `MySQL`
 
 ---
 
 ## 🤖 Artificial Intelligence & Data Science
 
-<p align="center">
+🧠 **Artificial Intelligence**
 
-🧠 Artificial Intelligence &nbsp;&nbsp;•&nbsp;&nbsp;
-🤖 Machine Learning &nbsp;&nbsp;•&nbsp;&nbsp;
-📊 Data Analytics &nbsp;&nbsp;•&nbsp;&nbsp;
-📈 Data Science
+🤖 **Machine Learning**
 
-</p>
+📊 **Data Analytics**
 
-<p align="center">
+📈 **Data Science**
 
-📉 Data Visualization &nbsp;&nbsp;•&nbsp;&nbsp;
-🧹 Data Cleaning &nbsp;&nbsp;•&nbsp;&nbsp;
-⚙️ Feature Engineering &nbsp;&nbsp;•&nbsp;&nbsp;
-🧪 Model Training & Evaluation
+📉 **Data Visualization**
 
-</p>
+🧹 **Data Cleaning**
+
+⚙️ **Feature Engineering**
+
+🧪 **Model Training & Evaluation**
 
 ---
 
 ## 📊 Analytics & Visualization
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
 </p>
 
-<p align="center">
+**Technologies & Tools:**
 
-📊 **Power BI**
-•
-📑 **DAX**
-•
-🐼 **Pandas**
-•
-🔢 **NumPy**
-•
-📉 **Matplotlib**
-•
-⚙️ **Scikit-Learn**
-•
-📋 **ETL Pipelines**
-•
-📈 **EDA**
-
-</p>
+- 📊 Power BI
+- 📑 DAX
+- 🐼 Pandas
+- 🔢 NumPy
+- 📉 Matplotlib
+- ⚙️ Scikit-Learn
+- 📋 ETL Pipelines
+- 📈 Exploratory Data Analysis (EDA)
 
 ---
 
 ## ☁️ Cloud & Developer Tools
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark"/>
-
 </p>
 
-<p align="center">
+**Tools & Platforms:**
 
-☁️ Microsoft Azure
-•
-Git
-•
-GitHub
-•
-VS Code
-•
-Jupyter Notebook
-•
-Google Colab
-•
-MS Office
-
-</p>
+- ☁️ Microsoft Azure
+- 🌐 Git
+- 🐙 GitHub
+- 💻 VS Code
+- 📒 Jupyter Notebook
+- 📓 Google Colab
+- 📑 Microsoft Office
 
 ---
 
 ## ⚡ Soft Skills
 
-<p align="center">
-
-🧩 Problem Solving
-•
-🧠 Analytical Thinking
-•
-🤝 Team Collaboration
-•
-💬 Communication
-•
-📚 Continuous Learning
-
-</p>
+- 🧩 Problem Solving
+- 🧠 Analytical Thinking
+- 🤝 Team Collaboration
+- 💬 Communication
+- 📚 Continuous Learning
 
 ---
 
 # 💼 Experience
 
-### 🤖 AI/ML Engineer Intern — Quadrant Resources Pvt. Ltd.
+## 🤖 AI/ML Engineer Intern
+
+**🏢 Quadrant Resources Pvt. Ltd.**
+
 📅 **December 2025 – January 2026**
 
-- 🤖 Built machine learning workflows using Python.
+**Key Contributions**
+
+- 🤖 Built Machine Learning workflows using Python.
 - 📊 Performed data preprocessing and feature engineering.
-- 🧠 Trained and evaluated classification models.
+- 🧠 Trained and evaluated Machine Learning models.
 - 📈 Conducted Exploratory Data Analysis (EDA).
 
 ---
 
-### 📊 Data Engineering Intern — Quadrant Resources Pvt. Ltd.
+## 📊 Data Engineering Intern
+
+**🏢 Quadrant Resources Pvt. Ltd.**
+
 📅 **June 2025 – July 2025**
 
+**Key Contributions**
+
 - ⚙️ Developed dynamic ETL pipelines.
-- 📑 Generated statistical metadata.
+- 📑 Generated statistical metadata automatically.
 - 🧹 Cleaned and validated structured datasets.
 - 📊 Automated reporting and visualizations.
 
 ---
 
-### 📈 Data Analytics Intern — Future Interns
+## 📈 Data Analytics Intern
+
+**🏢 Future Interns**
+
 📅 **July 2025**
+
+**Key Contributions**
 
 - 📊 Built interactive Power BI dashboards.
 - 📑 Created DAX measures and calculated columns.
-- 📈 Analyzed business datasets to identify trends and patterns.
+- 📈 Analyzed business datasets to identify trends and business insights.
 
 ---
 
@@ -251,19 +243,18 @@ MS Office
 
 > **Unity-based 3D Driving Simulator**
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark"/>
-
 </p>
 
-- 🚗 Unity 3D
-- 💻 C#
-- ⚙️ Vehicle Physics
-- 🚧 Collision Detection
-- 🎮 Interactive User Interface
+### ✨ Highlights
+
+- 🚗 Developed an interactive 3D driving simulator.
+- 🎮 Designed realistic vehicle controls and physics.
+- 🚧 Implemented collision detection.
+- 🖥️ Built an interactive user interface.
 
 ---
 
@@ -271,19 +262,18 @@ MS Office
 
 > **Interactive Business Intelligence Dashboard**
 
-### 🛠️ Technologies
+### 🛠️ Tech Stack
 
-<p align="center">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
 </p>
 
-- 📊 Power BI
-- 📑 DAX
-- 📈 Data Visualization
-- 💼 Business Analytics
-- 📋 KPI Reporting
+### ✨ Highlights
+
+- 📊 Built interactive Power BI dashboards.
+- 📑 Developed DAX measures.
+- 📈 Created KPI reports and business insights.
+- 📉 Designed effective data visualizations.
 
 ---
 
@@ -291,52 +281,50 @@ MS Office
 
 > **Automated Data Engineering Pipeline**
 
-### ⚙️ Features
+### 🛠️ Technologies
 
-- 🧹 Dynamic Data Cleaning
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+
+</p>
+
+### ✨ Features
+
+- ⚙️ Dynamic Data Cleaning
 - 📑 Metadata Generation
 - ✅ Dataset Validation
 - 📊 Statistical Analysis
-- 📄 JSON Reports
+- 📄 JSON Metadata Reports
 - 📈 Automated Visualizations
+
+---
+
+## 💡 Technical Highlights
+
+✔ Machine Learning
+
+✔ Data Analytics
+
+✔ Data Engineering
+
+✔ ETL Pipelines
+
+✔ Business Intelligence
+
+✔ Dashboard Development
+
+✔ Data Visualization
+
+✔ Python Automation
 
 ---
 
 # 🏆 Certifications
 
-<p align="center">
+🏅 AWS Certified CloudOps Engineer – Associate
 
-<img src="https://img.shields.io/badge/AWS-CloudOps%20Engineer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-
-</p>
-
-🏅 **AWS Certified CloudOps Engineer – Associate**
-
-🏅 **Salesforce Certified Agentforce Specialist**
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kirthana270405&theme=algolia&row=1&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Kirthana270405/Kirthana270405/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
-
-> ⚠️ **Note:** The snake animation won't appear immediately. You'll enable it later using a GitHub Action after your profile is set up.
+🏅 Salesforce Certified Agentforce Specialist
 
 ---
 
@@ -344,7 +332,25 @@ MS Office
 
 <p align="center">
 
-[![Kirthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=react-dark&hide_border=true&area=true)](https://github.com/Kirthana270405)
+[![Kirthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true)](https://github.com/Kirthana270405)
+
+</p>
+
+---
+
+# 📊 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirthana270405&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirthana270405&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirthana270405&theme=tokyonight"/>
 
 </p>
 
@@ -354,15 +360,15 @@ MS Office
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirthana270405&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight"/>
 
 </p>
 
@@ -370,39 +376,30 @@ MS Office
 
 # 🎯 Current Focus
 
-<p align="center">
-
-🤖 Artificial Intelligence • 📊 Data Analytics • 🛠️ Data Engineering • 📈 Machine Learning
-
-📉 Business Intelligence • ⚡ Generative AI • 🧠 Large Language Models (LLMs) • ☁️ Cloud Computing
-
-</p>
+- 🤖 Artificial Intelligence
+- 📊 Data Analytics
+- 🛠️ Data Engineering
+- 📈 Machine Learning
+- 📉 Business Intelligence
+- ⚡ Generative AI
+- 🧠 Large Language Models (LLMs)
+- ☁️ Cloud Computing
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+📧 **Email:** **kkirthi2005@gmail.com**
 
-<a href="mailto:kkirthi2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+💼 **LinkedIn:** https://linkedin.com/in/saikirthanakonduru
 
-<a href="https://www.linkedin.com/in/saikirthanakonduru">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Kirthana270405">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+🐙 **GitHub:** https://github.com/Kirthana270405
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00E5FF,100:7F00FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
 
 </p>
 
