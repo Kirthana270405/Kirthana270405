@@ -3,57 +3,53 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
-  />
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
+/>
+
 </p>
 
 <h1 align="center">
-  🌸 Hi, I'm Sai Kirthana Konduru 👋
+
+🌸 Hi, I'm Sai Kirthana Konduru 👋
+
 </h1>
 
 <h3 align="center">
-  ✨ Artificial Intelligence & Data Science Student • CBIT Hyderabad
+
+✨ B.Tech Artificial Intelligence & Data Science • CBIT Hyderabad • Class of 2027
+
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Kirthana270405&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"
-  />
+<img
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
+/>
 
-  <a href="https://github.com/Kirthana270405">
-    <img
-      src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&label=FOLLOWERS&color=7F5AF0"
-    />
-  </a>
 </p>
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/saikirthanakonduru">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/saikirthanakonduru">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:kkirthi2005@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+<a href="mailto:kkirthi2005@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Kirthana270405">
-    <img
-      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
+<a href="https://github.com/Kirthana270405">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+✨━━━━━━━━━━━━━━━━━━━━✨
 
 </p>
 
@@ -79,7 +75,13 @@
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 `Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
@@ -87,7 +89,12 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 </p>
 
 `HTML` · `CSS` · `Angular` · `Bootstrap`
@@ -95,7 +102,12 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIS-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 </p>
 
 `Node.js` · `Express.js` · `FastAPI` · `REST APIs`
@@ -103,19 +115,48 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 `MySQL` · `MongoDB` · `PostgreSQL`
 
 ### 🤖 AI / Data Science
 
+<p>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7F5AF0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA_VISUALIZATION-E91E63?style=for-the-badge"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/DATA_CLEANING-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FEATURE_ENGINEERING-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODEL_TRAINING_%26_EVALUATION-1565C0?style=for-the-badge"/>
+
+</p>
+
 `Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
 </p>
 
 `Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
@@ -137,6 +178,7 @@
 # 🌱 things I've lovingly built
 
 <details>
+
 <summary><strong>💳 FusionPay — Finance Management System</strong></summary>
 
 <br>
@@ -205,6 +247,7 @@ A full-stack finance management system built using **Spring Boot, Spring Cloud, 
 <br>
 
 <details>
+
 <summary><strong>🔐 MQTT-Based Bank Authentication System</strong></summary>
 
 <br>
@@ -239,13 +282,13 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
          MQTT
           │
           ▼
-     Flask Server
+      Flask Server
           │
           ▼
-    Authentication
+     Authentication
           │
           ▼
- Transaction Verification
+    Transaction Verification
           │
           ▼
         SQLite
@@ -278,6 +321,7 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 <br>
 
 <details>
+
 <summary><strong>🧹 Dynamic ETL Data Processing Pipeline</strong></summary>
 
 <br>
@@ -320,6 +364,7 @@ Automated pipeline for **data ingestion, cleaning, validation, metadata generati
 <br>
 
 <details>
+
 <summary><strong>🚗 RoadCodeX — Virtual Driving School</strong></summary>
 
 <br>
@@ -344,6 +389,7 @@ An interactive 3D driving simulator developed using Unity.
 <br>
 
 <details>
+
 <summary><strong>📊 Business Sales Dashboard</strong></summary>
 
 <br>
@@ -483,49 +529,51 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 ---
 
-# 📫 let's be friends
+# ❤️ let's be friends
 
 I'd love to collaborate on **AI/ML projects, full-stack applications, hackathons, open-source contributions, data engineering systems and interesting software projects.**
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/saikirthanakonduru">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/saikirthanakonduru">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:kkirthi2005@gmail.com">
-    <img
-      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
+<a href="mailto:kkirthi2005@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/Kirthana270405">
-    <img
-      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-  </a>
+<a href="https://github.com/Kirthana270405">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 <p align="center">
-  ✨ <i>"Building intelligent systems at the intersection of AI, software, and data."</i> ✨
+
+✨ <i>"Building intelligent systems at the intersection of AI, software, and data."</i> ✨
+
 </p>
 
 <p align="center">
-  🌱 Learning by building • Turning ideas into intelligent software • Always curious • Always improving 🌱
+
+🌱 Learning by building • Turning ideas into intelligent software • Always curious • Always improving 🌱
+
 </p>
 
 ---
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
-  />
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
+/>
+
 </p>
 
 <h3 align="center">
-  ⭐ Building intelligent systems, one project at a time.
+
+⭐ Building intelligent systems, one project at a time.
+
 </h3>
