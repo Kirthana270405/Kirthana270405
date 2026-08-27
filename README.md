@@ -1,450 +1,498 @@
 <!-- ========================================================= -->
-<!--                 ANIMATED HEADER                            -->
+<!--                    ANIMATED HEADER                        -->
 <!-- ========================================================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Data%20Engineering&descAlignY=58"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
+  />
 </p>
 
-<h1 align="center">
+<h1 align="center">Hi 👋 I'm Sai Kirthana Konduru</h1>
 
-Hi 👋 I'm Sai Kirthana Konduru
-
-</h1>
-
-<h3 align="center">
-
-Artificial Intelligence & Data Science Student
-
-</h3>
+<h3 align="center">Artificial Intelligence & Data Science Student</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=7F5AF0&lines=AI+Engineer;Data+Analyst;Data+Engineer;Machine+Learning+Engineer;Power+BI+Developer;Always+Learning+New+Technologies"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=7F5AF0&lines=AI+Engineer;Machine+Learning+Engineer;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst"/>
 </p>
 
----
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
-
-<a href="https://github.com/Kirthana270405">
-<img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&color=7F5AF0"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saikirthanakonduru">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kkirthi2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"/>
+  <a href="https://github.com/Kirthana270405">
+    <img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&label=Followers&color=7F5AF0"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saikirthanakonduru">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kkirthi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Fourth-Year **B.Tech Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**.
+🎓 B.Tech **Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**.
 
-💡 Passionate about **Artificial Intelligence, Data Analytics, Data Engineering, Machine Learning, Business Intelligence, and Software Development.**
+💻 Interested in **Artificial Intelligence, Machine Learning, Software Engineering, Backend Development, Data Engineering, and Data Analytics**.
 
-📊 Experienced in building **Machine Learning models, ETL pipelines, Business Intelligence dashboards, data visualization solutions, and data-driven applications.**
+⚙️ Experienced in building **microservices-based applications, ETL pipelines, Machine Learning workflows, dashboards, and data-driven applications**.
 
-🚀 Interested in **AI Engineering, Data Analytics, Data Engineering, Generative AI, Business Intelligence, Cloud Computing, and Software Development.**
+🤖 Currently exploring **Generative AI, Large Language Models, Advanced Machine Learning, Cloud Computing, and modern software engineering**.
 
-🌱 Currently exploring **Large Language Models (LLMs), Agentic AI, MLOps, Cloud Computing, and Advanced Machine Learning.**
+### 🚀 Open To
 
----
-
-## 🌟 Quick Highlights
-
-✨ AI & Data Science Student
-
-📊 Data Analytics & Business Intelligence Enthusiast
-
-⚙️ Data Engineering & ETL Pipeline Development
-
-🤖 Machine Learning Practitioner
-
-📈 Power BI Dashboard Developer
-
-☁️ Exploring Cloud Computing & MLOps
-
-🚀 Passionate about solving real-world business problems using AI and Data
+`Software Engineering` • `AI / ML Engineering` • `Backend Engineering` • `Data Engineering` • `Data Analytics`
 
 ---
 
-# 🎓 Education
+# 🛠️ Tech Stack
 
-🏫 **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**
-
-**Bachelor of Technology (B.Tech)**
-
-**Artificial Intelligence & Data Science**
-
-📅 **2023 – 2027**
-
-⭐ **CGPA: 8.60 / 10**
-
----
-
-# 💻 Technical Skills
-
-## 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql&theme=dark"/>
 </p>
 
-**Languages:** `Python` • `Java` • `SQL` • `R`
+`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
----
-
-## 📚 Computer Science Fundamentals
-
-🧩 **Data Structures & Algorithms**
-
-🏗️ **Object-Oriented Programming (OOP)**
-
-🗄️ **Database Management Systems**
-
----
-
-## 🗄️ Databases
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark"/>
 </p>
 
-**Databases:** `MongoDB` • `MySQL`
+`HTML` · `CSS` · `Angular` · `Bootstrap`
 
----
-
-## 🤖 Artificial Intelligence & Data Science
-
-🧠 **Artificial Intelligence**
-
-🤖 **Machine Learning**
-
-📊 **Data Analytics**
-
-📈 **Data Science**
-
-📉 **Data Visualization**
-
-🧹 **Data Cleaning**
-
-⚙️ **Feature Engineering**
-
-🧪 **Model Training & Evaluation**
-
----
-
-## 📊 Analytics & Visualization
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
 </p>
 
-**Technologies & Tools:**
+`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
 
-- 📊 Power BI
-- 📑 DAX
-- 🐼 Pandas
-- 🔢 NumPy
-- 📉 Matplotlib
-- ⚙️ Scikit-Learn
-- 📋 ETL Pipelines
-- 📈 Exploratory Data Analysis (EDA)
-
----
-
-## ☁️ Cloud & Developer Tools
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
 </p>
 
-**Tools & Platforms:**
+`MySQL` · `MongoDB` · `PostgreSQL`
 
-- ☁️ Microsoft Azure
-- 🌐 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 📒 Jupyter Notebook
-- 📓 Google Colab
-- 📑 Microsoft Office
+### 🤖 AI / Data Science
 
----
+`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
-## ⚡ Soft Skills
+### 🔧 Tools
 
-- 🧩 Problem Solving
-- 🧠 Analytical Thinking
-- 🤝 Team Collaboration
-- 💬 Communication
-- 📚 Continuous Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark"/>
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
 
 ---
 
-# 💼 Experience
+# 🧠 AI / ML Expertise
 
-## 🤖 AI/ML Engineer Intern
-
-**🏢 Quadrant Resources Pvt. Ltd.**
-
-📅 **December 2025 – January 2026**
-
-**Key Contributions**
-
-- 🤖 Built Machine Learning workflows using Python.
-- 📊 Performed data preprocessing and feature engineering.
-- 🧠 Trained and evaluated Machine Learning models.
-- 📈 Conducted Exploratory Data Analysis (EDA).
-
----
-
-## 📊 Data Engineering Intern
-
-**🏢 Quadrant Resources Pvt. Ltd.**
-
-📅 **June 2025 – July 2025**
-
-**Key Contributions**
-
-- ⚙️ Developed dynamic ETL pipelines.
-- 📑 Generated statistical metadata automatically.
-- 🧹 Cleaned and validated structured datasets.
-- 📊 Automated reporting and visualizations.
-
----
-
-## 📈 Data Analytics Intern
-
-**🏢 Future Interns**
-
-📅 **July 2025**
-
-**Key Contributions**
-
-- 📊 Built interactive Power BI dashboards.
-- 📑 Created DAX measures and calculated columns.
-- 📈 Analyzed business datasets to identify trends and business insights.
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| Artificial Intelligence | Strong | Intelligent systems and AI concepts |
+| Machine Learning | Strong | Model training, evaluation & feature engineering |
+| Data Science | Strong | Data cleaning, analysis & visualization |
+| Data Analytics | Strong | EDA, dashboards & business insights |
+| Data Visualization | Working | Power BI & analytical reporting |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚗 RoadCodeX — Virtual Driving School
+<details>
+<summary><strong>💳 FusionPay — Finance Management System</strong></summary>
 
-> **Unity-based 3D Driving Simulator**
+<br>
 
-### 🛠️ Tech Stack
+### Full-Stack Finance Management System
 
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark"/>
-</p>
-
-### ✨ Highlights
-
-- 🚗 Developed an interactive 3D driving simulator.
-- 🎮 Designed realistic vehicle controls and physics.
-- 🚧 Implemented collision detection.
-- 🖥️ Built an interactive user interface.
-
----
-
-## 📊 Business Sales Dashboard
-
-> **Interactive Business Intelligence Dashboard**
+A full-stack finance management system built using **Spring Boot, Spring Cloud, Angular, and MySQL**, following a microservices architecture.
 
 ### 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
-
-### ✨ Highlights
-
-- 📊 Built interactive Power BI dashboards.
-- 📑 Developed DAX measures.
-- 📈 Created KPI reports and business insights.
-- 📉 Designed effective data visualizations.
-
----
-
-## 🧹 Dynamic ETL Pipeline
-
-> **Automated Data Engineering Pipeline**
-
-### 🛠️ Technologies
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
-
-</p>
+`Java` · `Spring Boot` · `Spring Cloud` · `Microservices` · `Angular` · `MySQL` · `Eureka` · `OpenFeign` · `REST APIs`
 
 ### ✨ Features
 
-- ⚙️ Dynamic Data Cleaning
-- 📑 Metadata Generation
-- ✅ Dataset Validation
-- 📊 Statistical Analysis
-- 📄 JSON Metadata Reports
-- 📈 Automated Visualizations
+- User accounts
+- Product management
+- Product purchases
+- EMI calculations
+- Transactions
+- Administration
+
+### 🏗️ Architecture
+
+**Angular → API Gateway → User Service / Product Service / Finance Service → Admin Service → MySQL**
+
+### 📊 Project Details
+
+| Attribute | Details |
+| :--- | :--- |
+| Architecture | Microservices |
+| Business Services | 4 |
+| Frontend | Angular |
+| Backend | Spring Boot |
+| Framework | Spring Cloud |
+| Gateway | API Gateway |
+| Discovery | Eureka |
+| Communication | OpenFeign |
+| Database | MySQL |
+| REST Endpoints | 40+ |
+
+### 🔑 Engineering Highlights
+
+- Designed a microservices-based application architecture.
+- Implemented service discovery using Eureka.
+- Used OpenFeign for inter-service communication.
+- Integrated an API Gateway for service routing.
+- Developed 40+ REST endpoints across the application.
+- Connected backend services with MySQL persistence.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🔐 MQTT-Based Bank Authentication System</strong></summary>
+
+<br>
+
+### IoT + Security + Backend Authentication System
+
+An IoT-based banking authentication system combining **MQTT communication, Flask backend services, Raspberry Pi, RFID, and transaction verification**.
+
+### 🛠️ Tech Stack
+
+`Python` · `Flask` · `MQTT` · `SQLite` · `Raspberry Pi` · `RFID` · `SHA-256` · `HTML` · `CSS` · `JavaScript`
+
+### ✨ Features
+
+- Device-level authentication
+- Transaction verification
+- Challenge-response authentication
+- SHA-256 hashing
+- RFID-user matching
+- Email verification
+- 120-second transaction expiry
+- MQTT device monitoring
+- Event logging
+- Server-side response verification
+- LED status feedback
+
+### 🏗️ Architecture
+
+**RFID / Device → MQTT → Flask Server → Authentication → Transaction Verification → SQLite**
+
+### 📊 Project Details
+
+| Attribute | Details |
+| :--- | :--- |
+| Category | Security + IoT + Backend |
+| Backend | Flask |
+| Communication | MQTT |
+| Hardware | Raspberry Pi |
+| Authentication | RFID + Challenge Response |
+| Hashing | SHA-256 |
+| Database | SQLite |
+| Transaction Expiry | 120 seconds |
+
+### 🔑 Engineering Highlights
+
+- Implemented MQTT-based device communication.
+- Integrated RFID-based user matching.
+- Built server-side authentication and transaction verification.
+- Added challenge-response authentication.
+- Implemented SHA-256 hashing.
+- Added event logging and device monitoring.
+- Added LED feedback for device status.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🧹 Dynamic ETL Data Processing Pipeline</strong></summary>
+
+<br>
+
+### Automated Data Engineering Pipeline
+
+Automated pipeline for **data ingestion, cleaning, validation, metadata generation, statistical analysis, and visualization**.
+
+### 🛠️ Tech Stack
+
+`Python` · `Pandas` · `NumPy` · `MySQL`
+
+### ✨ Features
+
+- CSV/XLSX ingestion
+- Automated data cleaning
+- Metadata generation
+- Dataset validation
+- Statistical analysis
+- JSON metadata reports
+- Automated visualizations
+
+### 📊 Results
+
+| Metric | Result |
+| :--- | :--- |
+| Datasets Processed | 4 |
+| Missing Values Eliminated | 295 |
+
+### 🔑 Engineering Highlights
+
+- Built an automated data processing workflow.
+- Implemented dynamic data cleaning and validation.
+- Generated statistical metadata automatically.
+- Produced JSON-based metadata reports.
+- Automated analytical visualizations.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>🚗 RoadCodeX — Virtual Driving School</strong></summary>
+
+<br>
+
+### Unity-Based 3D Driving Simulator
+
+An interactive 3D driving simulator developed using Unity.
+
+### 🛠️ Tech Stack
+
+`Unity` · `C#`
+
+### ✨ Highlights
+
+- Interactive 3D driving environment
+- Vehicle controls and physics
+- Collision detection
+- Interactive user interface
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>📊 Business Sales Dashboard</strong></summary>
+
+<br>
+
+### Interactive Business Intelligence Dashboard
+
+A Power BI dashboard focused on business reporting, KPI analysis, and data visualization.
+
+### 🛠️ Tech Stack
+
+`Power BI` · `DAX`
+
+### ✨ Highlights
+
+- Interactive dashboards
+- DAX measures
+- KPI reporting
+- Business insights
+- Data visualization
+
+</details>
 
 ---
 
-## 💡 Core Expertise
+# 💼 Experience
 
-<table>
+### 🤖 AI/ML Engineer Intern
 
-<tr>
+**Quadrant Resources Pvt. Ltd.**
 
-<td width="50%">
+`December 2025 – January 2026`
 
-### 🤖 Artificial Intelligence
+- Built Machine Learning workflows using Python.
+- Performed data preprocessing and feature engineering.
+- Trained and evaluated Machine Learning models.
+- Conducted Exploratory Data Analysis.
 
-- Machine Learning
-- Model Training & Evaluation
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Analytics
-
-- Power BI Dashboards
-- Business Intelligence
-- KPI Reporting
-- Data Visualization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚙️ Data Engineering
-
-- ETL Pipelines
-- Data Cleaning
-- Metadata Generation
-- Dataset Validation
-
-</td>
-
-<td width="50%">
-
-### 💻 Software Development
-
-- Python Automation
-- Java Programming
-- SQL Development
-- Problem Solving
-
-</td>
-
-</tr>
-
-</table>
+**Skills:** `Python` · `Machine Learning` · `EDA` · `Feature Engineering`
 
 ---
 
-# 🏆 Certifications
+### ⚙️ Data Engineering Intern
 
-🏅 AWS Certified CloudOps Engineer – Associate
+**Quadrant Resources Pvt. Ltd.**
 
-🏅 Salesforce Certified Agentforce Specialist
+`June 2025 – July 2025`
+
+- Developed dynamic ETL pipelines.
+- Generated statistical metadata automatically.
+- Cleaned and validated structured datasets.
+- Automated reporting and visualizations.
+
+**Skills:** `Python` · `ETL` · `Data Processing` · `Data Validation`
 
 ---
 
-# 📈 GitHub Contribution Graph
+### 📊 Data Analytics Intern
+
+**Future Interns**
+
+`July 2025`
+
+- Built interactive Power BI dashboards.
+- Created DAX measures and calculated columns.
+- Analyzed business datasets to identify trends and business insights.
+
+**Skills:** `Power BI` · `DAX` · `Data Analytics`
+
+---
+
+# 🎓 Education
+
+### 🏫 Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad
+
+**Bachelor of Technology — Artificial Intelligence & Data Science**
+
+`2023 – 2027`
+
+**CGPA: 8.66 / 10**
+
+---
+
+### 🏫 Narayana Junior College
+
+**Senior Secondary**
+
+`2022`
+
+**Percentage: 96.8%**
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| 🎓 Academic Performance | B.Tech CGPA: 8.66 / 10 |
+| 🛠️ Project Development | Built projects spanning AI, software engineering, IoT and data engineering |
+
+---
+
+# 🏅 Certifications
+
+### ☁️ AWS
+
+**AWS Certified CloudOps Engineer – Associate**
+
+### ☁️ Salesforce
+
+**Salesforce Certified Agentforce Specialist**
+
+### 🤖 Oracle
+
+**Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+
+`Certified: April 13, 2025`
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
-
-[![Kirthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true)](https://github.com/Kirthana270405)
-
+  <a href="#">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirthana270405&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirthana270405&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirthana270405&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Kirthana270405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
 </p>
 
+---
+
+# 📈 Contribution Activity
+
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight"/>
+---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kirthana270405/Kirthana270405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🛠️ Data Engineering
-- 📈 Machine Learning
-- 📉 Business Intelligence
-- ⚡ Generative AI
-- 🧠 Large Language Models (LLMs)
-- ☁️ Cloud Computing
+| Area | Focus |
+| :--- | :--- |
+| 📚 Learning | Generative AI · Large Language Models · Advanced Machine Learning · Cloud Computing |
+| 🛠️ Building | Full-Stack Applications · Microservices · Data Engineering Pipelines · AI-Powered Systems |
+| 🔍 Exploring | LLM Applications · Agentic AI · MLOps · Distributed Systems |
+| 🚀 Open To | Software Engineering · AI / ML Engineering · Backend Engineering · Data Engineering |
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** **kkirthi2005@gmail.com**
+<p align="center">
 
-💼 **LinkedIn:** https://linkedin.com/in/saikirthanakonduru
+  <a href="mailto:kkirthi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-🐙 **GitHub:** https://github.com/Kirthana270405
+  <a href="https://www.linkedin.com/in/saikirthanakonduru">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Kirthana270405">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
-
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
+  />
 </p>
 
 <h3 align="center">
-
-⭐ Building intelligent solutions through AI, Data Analytics, and continuous learning.
-
+  Building intelligent systems at the intersection of AI, software, and data.
 </h3>
