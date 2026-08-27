@@ -312,7 +312,7 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 <br>
 
 <details>
-<summary><strong>🤖 RAG PDF Chatbot</strong></summary>
+<summary><strong>🤖 RAG PDF Chatbot-Intelligent PDF Document Question Answering</strong></summary>
 
 <br>
 
