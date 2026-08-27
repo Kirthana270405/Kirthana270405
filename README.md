@@ -14,7 +14,7 @@
 </h1>
 
 <h3 align="center">
-  ✨ B.Tech Artificial Intelligence & Data Science • CBIT Hyderabad • Class of 2027
+  ✨ B.Tech Artificial Intelligence & Data Science • CBIT Hyderabad • Class of 2027 ✨
 </h3>
 
 <div align="center">
