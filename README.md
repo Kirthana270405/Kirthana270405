@@ -545,13 +545,19 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 ---
 
-# 🧩 coding corner
+# 🧩 Coding Corner
 
-- 🧠 Strong interest in **Data Structures & Algorithms**
-- 💻 Practicing problem solving through coding
-- 🔧 Building projects across **AI, backend, full-stack and data engineering**
-- 🚀 Continuously improving software engineering fundamentals
+- 🧠 Actively solving Data Structures & Algorithms problems
+- 💻 Practicing Python and SQL problem solving on LeetCode
+- 🚀 Continuously improving algorithmic and problem-solving skills
 
+<p align="center">
+
+<a href="https://leetcode.com/u/hJmJyrqlZW/">
+  <img src="https://leetcard.jacoblin.cool/hJmJyrqlZW?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</a>
+
+</p>
 ---
 
 # 🎯 currently
