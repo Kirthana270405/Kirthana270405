@@ -90,7 +90,7 @@
 
 </p>
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
+
 
 ### 🎨 Frontend
 
@@ -103,7 +103,7 @@
 
 </p>
 
-`HTML` · `CSS` · `Angular` · `Bootstrap`
+
 
 ### ⚙️ Backend
 
@@ -116,7 +116,7 @@
 
 </p>
 
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
+
 
 ### 🗄️ Databases
 
@@ -128,7 +128,7 @@
 
 </p>
 
-`MySQL` · `MongoDB` · `PostgreSQL`
+
 
 ### 🤖 AI / Data Science
 
@@ -150,7 +150,7 @@
 
 </p>
 
-`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
+
 
 ### 🔧 Tools
 
@@ -165,7 +165,7 @@
 
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
+
 
 ---
 
@@ -269,21 +269,21 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 ### 🏗️ Architecture
 
     RFID / Device
-          │
-          ▼
-         MQTT
-          │
-          ▼
-      Flask Server
-          │
-          ▼
-     Authentication
-          │
-          ▼
+         │
+         ▼
+        MQTT
+         │
+         ▼
+    Flask Server
+         │
+         ▼
+    Authentication
+         │
+         ▼
     Transaction Verification
-          │
-          ▼
-        SQLite
+         │
+         ▼
+       SQLite
 
 ### 📊 Project Details
 
@@ -449,17 +449,17 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 ---
 
-# 🏅 little badges I've collected
+# 🏆 little badges I've collected
 
-### ☁️ AWS
+### 🏅 AWS
 
 **AWS Certified CloudOps Engineer – Associate**
 
-### ☁️ Salesforce
+### 🏅 Salesforce
 
 **Salesforce Certified Agentforce Specialist**
 
-### 🤖 Oracle
+### 🏅 Oracle
 
 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
@@ -528,8 +528,8 @@ I'd love to collaborate on **AI/ML projects, full-stack applications, hackathons
 <p align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"
 />
 
 </p>
