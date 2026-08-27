@@ -90,7 +90,7 @@
 
 </p>
 
-
+`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
 ### 🎨 Frontend
 
@@ -103,7 +103,7 @@
 
 </p>
 
-
+`HTML` · `CSS` · `Angular` · `Bootstrap`
 
 ### ⚙️ Backend
 
@@ -116,7 +116,7 @@
 
 </p>
 
-
+`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
 
 ### 🗄️ Databases
 
@@ -128,7 +128,7 @@
 
 </p>
 
-
+`MySQL` · `MongoDB` · `PostgreSQL`
 
 ### 🤖 AI / Data Science
 
@@ -150,6 +150,7 @@
 
 </p>
 
+`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
 ### 🔧 Tools
 
@@ -164,19 +165,7 @@
 
 </p>
 
-
-
----
-
-# 🧠 AI / DS expertise
-
-| Domain | Proficiency | Focus |
-| :--- | :--- | :--- |
-| 🤖 Artificial Intelligence | Strong | Intelligent systems & AI concepts |
-| 🧠 Machine Learning | Strong | Training, evaluation & feature engineering |
-| 📊 Data Science | Strong | Data cleaning, analysis & visualization |
-| 📈 Data Analytics | Strong | EDA, dashboards & business insights |
-| 📉 Data Visualization | Working | Power BI & analytical reporting |
+`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
 
 ---
 
@@ -460,37 +449,6 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 ---
 
-# 🎓 education
-
-### 🏫 Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad
-
-**Bachelor of Technology — Artificial Intelligence & Data Science**
-
-`2023 – 2027`
-
-**CGPA: 8.66 / 10**
-
----
-
-### 🏫 Narayana Junior College
-
-**Senior Secondary**
-
-`2022`
-
-**Percentage: 96.8%**
-
----
-
-# 🏆 achievements
-
-| Recognition | Details |
-| :--- | :--- |
-| 🎓 Academic Performance | B.Tech CGPA: 8.66 / 10 |
-| 🛠️ Project Development | Built projects across AI, software engineering, IoT and data engineering |
-
----
-
 # 🏅 little badges I've collected
 
 ### ☁️ AWS
@@ -505,7 +463,7 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
 
-`Certified: April 13, 2025`
+
 
 ---
 
