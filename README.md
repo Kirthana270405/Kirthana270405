@@ -84,7 +84,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
+
 
 ### 🎨 Frontend
 
@@ -97,7 +97,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`HTML` · `CSS` · `Angular` · `Bootstrap`
+
 
 ### ⚙️ Backend
 
@@ -110,7 +110,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
+
 
 ### 🗄️ Databases
 
@@ -122,7 +122,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`MySQL` · `MongoDB` · `PostgreSQL`
+
 
 ### 🤖 AI / Data Science
 
