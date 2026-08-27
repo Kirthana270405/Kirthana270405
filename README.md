@@ -151,7 +151,6 @@
 </p>
 
 
-
 ### 🔧 Tools
 
 <p>
@@ -313,6 +312,87 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 <br>
 
 <details>
+<summary><strong>🤖 RAG PDF Chatbot</strong></summary>
+
+<br>
+
+### Retrieval-Augmented Generation PDF Question Answering System
+
+A **Retrieval-Augmented Generation (RAG)** chatbot that enables users to ask natural-language questions about PDF documents using semantic search and transformer-based language models.
+
+### 🛠️ Tech Stack
+
+`Python` · `Streamlit` · `LangChain` · `FAISS` · `Hugging Face Transformers` · `Sentence Transformers` · `PyPDFLoader`
+
+### ✨ Features
+
+- 📄 Upload and process PDF documents
+- 🔎 Semantic search using vector embeddings
+- 🧠 Context-aware question answering
+- ⚡ Fast document retrieval with FAISS
+- 🤖 Retrieval-Augmented Generation pipeline
+- 💬 Interactive Streamlit web interface
+
+### 🏗️ Project Workflow
+
+    PDF Documents
+          │
+          ▼
+    Document Loading
+          │
+          ▼
+    Text Chunking
+          │
+          ▼
+    Sentence Embeddings
+          │
+          ▼
+    FAISS Vector Store
+          │
+          ▼
+    Similarity Search
+          │
+          ▼
+    Retrieved Context
+          │
+          ▼
+    FLAN-T5 Language Model
+          │
+          ▼
+    Generated Response
+          │
+          ▼
+    Streamlit Interface
+
+### 📊 Project Details
+
+| Attribute | Details |
+| :--- | :--- |
+| Category | Generative AI + NLP |
+| Architecture | RAG Pipeline |
+| Language | Python |
+| Interface | Streamlit |
+| Framework | LangChain |
+| Vector Store | FAISS |
+| Embeddings | Sentence Transformers |
+| Language Model | FLAN-T5 |
+| PDF Processing | PyPDFLoader |
+
+### 🔑 Engineering Highlights
+
+- Implemented a Retrieval-Augmented Generation pipeline.
+- Processed PDF documents and divided them into text chunks.
+- Generated semantic embeddings using Sentence Transformers.
+- Indexed embeddings using FAISS for similarity search.
+- Retrieved relevant document context based on user queries.
+- Passed retrieved context to the FLAN-T5 language model.
+- Built an interactive Streamlit interface for document question answering.
+
+</details>
+
+<br>
+
+<details>
 <summary><strong>🧹 Dynamic ETL Data Processing Pipeline</strong></summary>
 
 <br>
@@ -462,8 +542,6 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 ### 🏅 Oracle
 
 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-
-
 
 ---
 
