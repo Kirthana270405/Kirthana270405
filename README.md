@@ -1,59 +1,85 @@
 <!-- ========================================================= -->
-<!--                    ANIMATED HEADER                        -->
+<!--                    PROFILE README                         -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
   />
 </p>
 
-<h1 align="center">Hi 👋 I'm Sai Kirthana Konduru</h1>
+<h1 align="center">
+  🌸 Hi, I'm Sai Kirthana Konduru 👋
+</h1>
 
-<h3 align="center">Artificial Intelligence & Data Science Student</h3>
+<h3 align="center">
+  ✨ Artificial Intelligence & Data Science Student • CBIT Hyderabad
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=7F5AF0&lines=AI+Engineer;Machine+Learning+Engineer;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Kirthana270405&label=PROFILE+VIEWS&color=7F5AF0&style=for-the-badge"
+  />
+
   <a href="https://github.com/Kirthana270405">
-    <img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&label=Followers&color=7F5AF0"/>
+    <img
+      src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&label=FOLLOWERS&color=7F5AF0"
+    />
   </a>
+</p>
+
+<p align="center">
+
   <a href="https://www.linkedin.com/in/saikirthanakonduru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
   </a>
+
   <a href="mailto:kkirthi2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
+
+  <a href="https://github.com/Kirthana270405">
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
+  </a>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 🌷 a little about me
 
-🎓 B.Tech **Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**.
+- 🎓 B.Tech **Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**
+- 💻 Interested in **Artificial Intelligence, Machine Learning, Software Engineering, Backend Development & Data Engineering**
+- ⚙️ Experienced in building **full-stack applications, microservices, ETL pipelines, Machine Learning workflows and data-driven systems**
+- 📊 Experienced with **data analytics, visualization, dashboards and business intelligence**
+- 🤖 Currently exploring **Generative AI, Large Language Models, Agentic AI, MLOps and Cloud Computing**
+- 🧠 Passionate about turning ideas into practical and scalable software
 
-💻 Interested in **Artificial Intelligence, Machine Learning, Software Engineering, Backend Development, Data Engineering, and Data Analytics**.
+### 🚀 Open to
 
-⚙️ Experienced in building **microservices-based applications, ETL pipelines, Machine Learning workflows, dashboards, and data-driven applications**.
-
-🤖 Currently exploring **Generative AI, Large Language Models, Advanced Machine Learning, Cloud Computing, and modern software engineering**.
-
-### 🚀 Open To
-
-`Software Engineering` • `AI / ML Engineering` • `Backend Engineering` • `Data Engineering` • `Data Analytics`
+`Software Engineering` · `AI / ML Engineering` · `Backend Engineering` · `Data Engineering` · `Data Analytics`
 
 ---
 
-# 🛠️ Tech Stack
+# 🧰 my toolbox
 
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" />
 </p>
 
 `Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
@@ -61,7 +87,7 @@
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap&theme=dark" />
 </p>
 
 `HTML` · `CSS` · `Angular` · `Bootstrap`
@@ -69,7 +95,7 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 </p>
 
 `Node.js` · `Express.js` · `FastAPI` · `REST APIs`
@@ -77,7 +103,7 @@
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 </p>
 
 `MySQL` · `MongoDB` · `PostgreSQL`
@@ -89,26 +115,26 @@
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 </p>
 
 `Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
 
 ---
 
-# 🧠 AI / ML Expertise
+# 🧠 AI / ML expertise
 
-| Domain | Proficiency | Details |
+| Domain | Proficiency | Focus |
 | :--- | :--- | :--- |
-| Artificial Intelligence | Strong | Intelligent systems and AI concepts |
-| Machine Learning | Strong | Model training, evaluation & feature engineering |
-| Data Science | Strong | Data cleaning, analysis & visualization |
-| Data Analytics | Strong | EDA, dashboards & business insights |
-| Data Visualization | Working | Power BI & analytical reporting |
+| 🤖 Artificial Intelligence | Strong | Intelligent systems & AI concepts |
+| 🧠 Machine Learning | Strong | Training, evaluation & feature engineering |
+| 📊 Data Science | Strong | Data cleaning, analysis & visualization |
+| 📈 Data Analytics | Strong | EDA, dashboards & business insights |
+| 📉 Data Visualization | Working | Power BI & analytical reporting |
 
 ---
 
-# 🚀 Featured Projects
+# 🌱 things I've lovingly built
 
 <details>
 <summary><strong>💳 FusionPay — Finance Management System</strong></summary>
@@ -117,7 +143,7 @@
 
 ### Full-Stack Finance Management System
 
-A full-stack finance management system built using **Spring Boot, Spring Cloud, Angular, and MySQL**, following a microservices architecture.
+A full-stack finance management system built using **Spring Boot, Spring Cloud, Angular and MySQL**, following a **microservices architecture**.
 
 ### 🛠️ Tech Stack
 
@@ -125,16 +151,30 @@ A full-stack finance management system built using **Spring Boot, Spring Cloud, 
 
 ### ✨ Features
 
-- User accounts
-- Product management
-- Product purchases
-- EMI calculations
-- Transactions
-- Administration
+- 👤 User accounts
+- 📦 Product management
+- 🛒 Product purchases
+- 💰 EMI calculations
+- 💳 Transactions
+- 🔐 Administration
 
 ### 🏗️ Architecture
 
-**Angular → API Gateway → User Service / Product Service / Finance Service → Admin Service → MySQL**
+    Angular
+       │
+       ▼
+    API Gateway
+       │
+       ├──────────────┬──────────────┐
+       ▼              ▼              ▼
+    User Service  Product Service  Finance Service
+       │              │              │
+       └──────────────┼──────────────┘
+                      ▼
+                 Admin Service
+                      │
+                      ▼
+                    MySQL
 
 ### 📊 Project Details
 
@@ -171,7 +211,7 @@ A full-stack finance management system built using **Spring Boot, Spring Cloud, 
 
 ### IoT + Security + Backend Authentication System
 
-An IoT-based banking authentication system combining **MQTT communication, Flask backend services, Raspberry Pi, RFID, and transaction verification**.
+An IoT-based banking authentication system combining **MQTT communication, Flask backend services, Raspberry Pi, RFID and transaction verification**.
 
 ### 🛠️ Tech Stack
 
@@ -179,21 +219,36 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 
 ### ✨ Features
 
-- Device-level authentication
-- Transaction verification
-- Challenge-response authentication
-- SHA-256 hashing
-- RFID-user matching
-- Email verification
-- 120-second transaction expiry
-- MQTT device monitoring
-- Event logging
-- Server-side response verification
-- LED status feedback
+- 🔐 Device-level authentication
+- 💳 Transaction verification
+- 🔄 Challenge-response authentication
+- 🔑 SHA-256 hashing
+- 🪪 RFID-user matching
+- 📧 Email verification
+- ⏱️ 120-second transaction expiry
+- 📡 MQTT device monitoring
+- 📝 Event logging
+- ✅ Server-side response verification
+- 💡 LED status feedback
 
 ### 🏗️ Architecture
 
-**RFID / Device → MQTT → Flask Server → Authentication → Transaction Verification → SQLite**
+    RFID / Device
+          │
+          ▼
+         MQTT
+          │
+          ▼
+     Flask Server
+          │
+          ▼
+    Authentication
+          │
+          ▼
+ Transaction Verification
+          │
+          ▼
+        SQLite
 
 ### 📊 Project Details
 
@@ -229,7 +284,7 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 
 ### Automated Data Engineering Pipeline
 
-Automated pipeline for **data ingestion, cleaning, validation, metadata generation, statistical analysis, and visualization**.
+Automated pipeline for **data ingestion, cleaning, validation, metadata generation, statistical analysis and visualization**.
 
 ### 🛠️ Tech Stack
 
@@ -237,13 +292,13 @@ Automated pipeline for **data ingestion, cleaning, validation, metadata generati
 
 ### ✨ Features
 
-- CSV/XLSX ingestion
-- Automated data cleaning
-- Metadata generation
-- Dataset validation
-- Statistical analysis
-- JSON metadata reports
-- Automated visualizations
+- 📥 CSV/XLSX ingestion
+- 🧹 Automated data cleaning
+- 📋 Metadata generation
+- ✅ Dataset validation
+- 📊 Statistical analysis
+- 📄 JSON metadata reports
+- 📈 Automated visualizations
 
 ### 📊 Results
 
@@ -279,10 +334,10 @@ An interactive 3D driving simulator developed using Unity.
 
 ### ✨ Highlights
 
-- Interactive 3D driving environment
-- Vehicle controls and physics
-- Collision detection
-- Interactive user interface
+- 🚗 Interactive 3D driving environment
+- 🎮 Vehicle controls and physics
+- 🚧 Collision detection
+- 🖥️ Interactive user interface
 
 </details>
 
@@ -295,7 +350,7 @@ An interactive 3D driving simulator developed using Unity.
 
 ### Interactive Business Intelligence Dashboard
 
-A Power BI dashboard focused on business reporting, KPI analysis, and data visualization.
+A Power BI dashboard focused on **business reporting, KPI analysis and data visualization**.
 
 ### 🛠️ Tech Stack
 
@@ -303,17 +358,17 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 ### ✨ Highlights
 
-- Interactive dashboards
-- DAX measures
-- KPI reporting
-- Business insights
-- Data visualization
+- 📊 Interactive dashboards
+- 📐 DAX measures
+- 🎯 KPI reporting
+- 💡 Business insights
+- 📈 Data visualization
 
 </details>
 
 ---
 
-# 💼 Experience
+# 💼 experience
 
 ### 🤖 AI/ML Engineer Intern
 
@@ -321,10 +376,10 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 `December 2025 – January 2026`
 
-- Built Machine Learning workflows using Python.
-- Performed data preprocessing and feature engineering.
-- Trained and evaluated Machine Learning models.
-- Conducted Exploratory Data Analysis.
+- 🤖 Built Machine Learning workflows using Python.
+- 📊 Performed data preprocessing and feature engineering.
+- 🧠 Trained and evaluated Machine Learning models.
+- 📈 Conducted Exploratory Data Analysis.
 
 **Skills:** `Python` · `Machine Learning` · `EDA` · `Feature Engineering`
 
@@ -336,10 +391,10 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 `June 2025 – July 2025`
 
-- Developed dynamic ETL pipelines.
-- Generated statistical metadata automatically.
-- Cleaned and validated structured datasets.
-- Automated reporting and visualizations.
+- ⚙️ Developed dynamic ETL pipelines.
+- 📑 Generated statistical metadata automatically.
+- 🧹 Cleaned and validated structured datasets.
+- 📊 Automated reporting and visualizations.
 
 **Skills:** `Python` · `ETL` · `Data Processing` · `Data Validation`
 
@@ -351,15 +406,15 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 `July 2025`
 
-- Built interactive Power BI dashboards.
-- Created DAX measures and calculated columns.
-- Analyzed business datasets to identify trends and business insights.
+- 📊 Built interactive Power BI dashboards.
+- 📑 Created DAX measures and calculated columns.
+- 📈 Analyzed business datasets to identify trends and business insights.
 
 **Skills:** `Power BI` · `DAX` · `Data Analytics`
 
 ---
 
-# 🎓 Education
+# 🎓 education
 
 ### 🏫 Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad
 
@@ -381,16 +436,16 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 ---
 
-# 🏆 Achievements
+# 🏆 achievements
 
 | Recognition | Details |
 | :--- | :--- |
 | 🎓 Academic Performance | B.Tech CGPA: 8.66 / 10 |
-| 🛠️ Project Development | Built projects spanning AI, software engineering, IoT and data engineering |
+| 🛠️ Project Development | Built projects across AI, software engineering, IoT and data engineering |
 
 ---
 
-# 🏅 Certifications
+# 🏅 little badges I've collected
 
 ### ☁️ AWS
 
@@ -408,80 +463,58 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 
 ---
 
-# 💻 Coding Profiles
+# 🧩 coding corner
 
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight&hide_border=true"/>
-</p>
+- 🧠 Strong interest in **Data Structures & Algorithms**
+- 💻 Practicing problem solving through coding
+- 🔧 Building projects across **AI, backend, full-stack and data engineering**
+- 🚀 Continuously improving software engineering fundamentals
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 currently
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kirthana270405&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kirthana270405/Kirthana270405/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🎯 Current Focus
-
-| Area | Focus |
+| | |
 | :--- | :--- |
-| 📚 Learning | Generative AI · Large Language Models · Advanced Machine Learning · Cloud Computing |
-| 🛠️ Building | Full-Stack Applications · Microservices · Data Engineering Pipelines · AI-Powered Systems |
-| 🔍 Exploring | LLM Applications · Agentic AI · MLOps · Distributed Systems |
-| 🚀 Open To | Software Engineering · AI / ML Engineering · Backend Engineering · Data Engineering |
+| 📚 **Learning** | Generative AI · Large Language Models · Advanced Machine Learning · Cloud Computing |
+| 🛠️ **Building** | Full-Stack Applications · Microservices · Data Engineering Pipelines · AI-Powered Systems |
+| 🔍 **Exploring** | LLM Applications · Agentic AI · MLOps · Distributed Systems |
+| 🚀 **Open To** | Software Engineering · AI / ML Engineering · Backend Engineering · Data Engineering |
 
 ---
 
-# 📫 Connect With Me
+# 📫 let's be friends
+
+I'd love to collaborate on **AI/ML projects, full-stack applications, hackathons, open-source contributions, data engineering systems and interesting software projects.**
 
 <p align="center">
-
-  <a href="mailto:kkirthi2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/saikirthanakonduru">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:kkirthi2005@gmail.com">
+    <img
+      src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
   </a>
 
   <a href="https://github.com/Kirthana270405">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img
+      src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+    />
   </a>
 
+</p>
+
+<p align="center">
+  ✨ <i>"Building intelligent systems at the intersection of AI, software, and data."</i> ✨
+</p>
+
+<p align="center">
+  🌱 Learning by building • Turning ideas into intelligent software • Always curious • Always improving 🌱
 </p>
 
 ---
@@ -494,5 +527,5 @@ A Power BI dashboard focused on business reporting, KPI analysis, and data visua
 </p>
 
 <h3 align="center">
-  Building intelligent systems at the intersection of AI, software, and data.
+  ⭐ Building intelligent systems, one project at a time.
 </h3>
