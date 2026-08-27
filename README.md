@@ -26,7 +26,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Machine+Learning;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Data+Science;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
 />
 
 </p>
@@ -163,7 +163,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 ---
 
-# 🧠 AI / DS expertise
+# 🧠 AI / ML expertise
 
 | Domain | Proficiency | Focus |
 | :--- | :--- | :--- |
