@@ -3,55 +3,61 @@
 <!-- ========================================================= -->
 
 <p align="center">
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
-/>
-
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Software%20Engineering%20%7C%20Data%20Engineering&descAlignY=58"
+  />
 </p>
 
 <h1 align="center">
-
-🌸 Hi, I'm Sai Kirthana Konduru 👋
-
+  🌸 Hi, I'm Sai Kirthana Konduru 👋
 </h1>
 
 <h3 align="center">
-
-✨ B.Tech Artificial Intelligence & Data Science • CBIT Hyderabad • Class of 2027
-
+  ✨ B.Tech Artificial Intelligence & Data Science • CBIT Hyderabad • Class of 2027
 </h3>
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Developer;Software+Engineer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Developer;Software+Engineer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
 />
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/saikirthanakonduru">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
 </a>
 
 <a href="mailto:kkirthi2005@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
 </a>
 
 <a href="https://github.com/Kirthana270405">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"
+  />
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-✨━━━━━━━━━━━━━━━━━━━━✨
+<div align="center">
 
-</p>
+✨━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✨
+
+</div>
+
+<br>
 
 ---
 
@@ -178,7 +184,6 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 # 🌱 things I've lovingly built
 
 <details>
-
 <summary><strong>💳 FusionPay — Finance Management System</strong></summary>
 
 <br>
@@ -247,7 +252,6 @@ A full-stack finance management system built using **Spring Boot, Spring Cloud, 
 <br>
 
 <details>
-
 <summary><strong>🔐 MQTT-Based Bank Authentication System</strong></summary>
 
 <br>
@@ -321,7 +325,6 @@ An IoT-based banking authentication system combining **MQTT communication, Flask
 <br>
 
 <details>
-
 <summary><strong>🧹 Dynamic ETL Data Processing Pipeline</strong></summary>
 
 <br>
@@ -364,7 +367,6 @@ Automated pipeline for **data ingestion, cleaning, validation, metadata generati
 <br>
 
 <details>
-
 <summary><strong>🚗 RoadCodeX — Virtual Driving School</strong></summary>
 
 <br>
@@ -389,7 +391,6 @@ An interactive 3D driving simulator developed using Unity.
 <br>
 
 <details>
-
 <summary><strong>📊 Business Sales Dashboard</strong></summary>
 
 <br>
@@ -533,7 +534,7 @@ A Power BI dashboard focused on **business reporting, KPI analysis and data visu
 
 I'd love to collaborate on **AI/ML projects, full-stack applications, hackathons, open-source contributions, data engineering systems and interesting software projects.**
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/saikirthanakonduru">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -547,19 +548,23 @@ I'd love to collaborate on **AI/ML projects, full-stack applications, hackathons
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 ✨ <i>"Building intelligent systems at the intersection of AI, software, and data."</i> ✨
 
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
 
 🌱 Learning by building • Turning ideas into intelligent software • Always curious • Always improving 🌱
 
-</p>
+</div>
 
 ---
 
