@@ -72,7 +72,7 @@
 
 ### 🚀 Open to
 
-`Software Engineering` · `AI / ML Engineering` · `Backend Engineering` · `Data Engineering` · `Data Analytics`
+`Software Engineering` · `AI / ML Engineering` · `Full Stack Engineering` · `Data Engineering` · `Data Analytics`
 
 ---
 
