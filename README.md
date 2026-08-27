@@ -26,7 +26,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient
 <p align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Data+Science;Software+Engineer;Backend+Developer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=850&color=7F5AF0&lines=Artificial+Intelligence+%26+Data+Science;Full+Stack+Developer;Software+Engineer;Data+Engineer;Data+Analyst;Building+Intelligent+Systems"
 />
 
 </p>
@@ -84,7 +84,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-
+`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
 
 ### 🎨 Frontend
 
@@ -97,7 +97,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-
+`HTML` · `CSS` · `Angular` · `Bootstrap`
 
 ### ⚙️ Backend
 
@@ -110,7 +110,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-
+`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
 
 ### 🗄️ Databases
 
@@ -122,7 +122,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-
+`MySQL` · `MongoDB` · `PostgreSQL`
 
 ### 🤖 AI / Data Science
 
@@ -144,6 +144,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
+`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
 ### 🔧 Tools
 
@@ -158,7 +159,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-
+`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
 
 ---
 
