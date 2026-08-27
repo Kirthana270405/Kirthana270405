@@ -163,7 +163,7 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 ---
 
-# 🧠 AI / ML expertise
+# 🧠 AI / DS expertise
 
 | Domain | Proficiency | Focus |
 | :--- | :--- | :--- |
