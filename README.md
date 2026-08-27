@@ -144,7 +144,6 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
 ### 🔧 Tools
 
@@ -159,11 +158,11 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&durat
 
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
+
 
 ---
 
-# 🧠 AI / ML expertise
+# 🧠 AI / DS expertise
 
 | Domain | Proficiency | Focus |
 | :--- | :--- | :--- |
