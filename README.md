@@ -1,450 +1,792 @@
-<!-- ========================================================= -->
-<!--                 ANIMATED HEADER                            -->
-<!-- ========================================================= -->
+Create a highly polished, modern, professional and visually impressive GitHub Profile README for me.
 
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Sai%20Kirthana%20Konduru&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Data%20Analytics%20%7C%20Data%20Engineering&descAlignY=58"/>
-</p>
+The profile should look attractive and recruiter-friendly, inspired by the overall quality and visual organization of polished developer GitHub profiles, but it must NOT copy another person's profile, wording, layout, statistics, achievements, or content.
 
-<h1 align="center">
+The goal is to present MY actual education, technical skills, internships, certifications, projects, hackathons and coding experience in a clean and impressive way.
 
-Hi 👋 I'm Sai Kirthana Konduru
+## 🚨 VERY IMPORTANT ACCURACY RULE
 
-</h1>
+Do NOT invent, exaggerate, or assume any:
 
-<h3 align="center">
+* Projects
+* Technologies
+* Certifications
+* Job titles
+* Internship responsibilities
+* Awards
+* GitHub statistics
+* LeetCode ratings
+* Rankings
+* Achievements
+* Repository URLs
+* Social links
 
-Artificial Intelligence & Data Science Student
+Only use the information provided below.
 
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=7F5AF0&lines=AI+Engineer;Data+Analyst;Data+Engineer;Machine+Learning+Engineer;Power+BI+Developer;Always+Learning+New+Technologies"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kirthana270405&label=Profile+Views&color=7F5AF0&style=for-the-badge"/>
-
-<a href="https://github.com/Kirthana270405">
-<img src="https://img.shields.io/github/followers/Kirthana270405?style=for-the-badge&logo=github&color=7F5AF0"/>
-</a>
-
-<a href="https://www.linkedin.com/in/saikirthanakonduru">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kkirthi2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+If a repository URL, LinkedIn URL, LeetCode URL, or other link is required and has not been explicitly provided, use a clearly marked placeholder instead of inventing one.
 
 ---
 
-# 💫 About Me
+# 👩‍💻 PERSONAL INFORMATION
 
-🎓 Fourth-Year **B.Tech Artificial Intelligence & Data Science** student at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**.
+Name:
 
-💡 Passionate about **Artificial Intelligence, Data Analytics, Data Engineering, Machine Learning, Business Intelligence, and Software Development.**
+SAI KIRTHANA KONDURU
 
-📊 Experienced in building **Machine Learning models, ETL pipelines, Business Intelligence dashboards, data visualization solutions, and data-driven applications.**
+Current status:
 
-🚀 Interested in **AI Engineering, Data Analytics, Data Engineering, Generative AI, Business Intelligence, Cloud Computing, and Software Development.**
+4th Year B.Tech student in Artificial Intelligence & Data Science
 
-🌱 Currently exploring **Large Language Models (LLMs), Agentic AI, MLOps, Cloud Computing, and Advanced Machine Learning.**
+College:
 
----
+Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad
 
-## 🌟 Quick Highlights
+Graduation:
 
-✨ AI & Data Science Student
+June 2027
 
-📊 Data Analytics & Business Intelligence Enthusiast
+CGPA:
 
-⚙️ Data Engineering & ETL Pipeline Development
+8.66 / 10
 
-🤖 Machine Learning Practitioner
+Create a concise professional headline such as:
 
-📈 Power BI Dashboard Developer
+"Artificial Intelligence & Data Science Student | AI/ML | Data Analytics | Data Engineering | Software Development"
 
-☁️ Exploring Cloud Computing & MLOps
-
-🚀 Passionate about solving real-world business problems using AI and Data
+Do not call me a Senior Engineer, AI Engineer, Data Scientist, or Machine Learning Engineer as a professional title because I am still a student.
 
 ---
 
-# 🎓 Education
+# 👋 ABOUT ME
 
-🏫 **Chaitanya Bharathi Institute of Technology (Autonomous), Hyderabad**
+Create a short, confident and professional About Me section.
 
-**Bachelor of Technology (B.Tech)**
+Mention that I am a fourth-year Artificial Intelligence & Data Science student interested in:
 
-**Artificial Intelligence & Data Science**
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* Data Engineering
+* ETL
+* Business Intelligence
+* Backend Development
+* Full-Stack Development
+* Software Engineering
 
-📅 **2023 – 2027**
+Mention that I enjoy building practical projects involving data, analytics, AI and software development.
 
-⭐ **CGPA: 8.60 / 10**
+Keep this section concise.
 
----
+Avoid generic phrases such as:
 
-# 💻 Technical Skills
+"passionate coder"
+"tech enthusiast"
+"coding ninja"
+"future billionaire"
+"turning coffee into code"
 
-## 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,r,mysql&theme=dark"/>
-</p>
-
-**Languages:** `Python` • `Java` • `SQL` • `R`
-
----
-
-## 📚 Computer Science Fundamentals
-
-🧩 **Data Structures & Algorithms**
-
-🏗️ **Object-Oriented Programming (OOP)**
-
-🗄️ **Database Management Systems**
+Keep the tone mature and professional.
 
 ---
 
-## 🗄️ Databases
+# 🌟 QUICK HIGHLIGHTS
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark"/>
-</p>
+Create a visually attractive compact highlights section.
 
-**Databases:** `MongoDB` • `MySQL`
+Include:
 
----
+🎓 B.Tech Artificial Intelligence & Data Science — CBIT
 
-## 🤖 Artificial Intelligence & Data Science
+📊 Data Analytics & Business Intelligence
 
-🧠 **Artificial Intelligence**
+⚙️ ETL & Data Engineering
 
-🤖 **Machine Learning**
+🤖 AI / Machine Learning
 
-📊 **Data Analytics**
+💻 Software & Backend Development
 
-📈 **Data Science**
+📈 Power BI Dashboard Development
 
-📉 **Data Visualization**
+🧩 150+ LeetCode Problems Solved
 
-🧹 **Data Cleaning**
+🏆 Hackathon Experience
 
-⚙️ **Feature Engineering**
-
-🧪 **Model Training & Evaluation**
+Do not add fake metrics.
 
 ---
 
-## 📊 Analytics & Visualization
+# 🛠️ TECHNICAL SKILLS
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
+Organize my skills into clean categories instead of putting everything into one giant list.
 
-**Technologies & Tools:**
+## Programming Languages
 
-- 📊 Power BI
-- 📑 DAX
-- 🐼 Pandas
-- 🔢 NumPy
-- 📉 Matplotlib
-- ⚙️ Scikit-Learn
-- 📋 ETL Pipelines
-- 📈 Exploratory Data Analysis (EDA)
+* Python
+* Java
+* SQL
+
+Do NOT list R because it has not been established as one of my actual skills.
 
 ---
 
-## ☁️ Cloud & Developer Tools
+## Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark"/>
-</p>
-
-**Tools & Platforms:**
-
-- ☁️ Microsoft Azure
-- 🌐 Git
-- 🐙 GitHub
-- 💻 VS Code
-- 📒 Jupyter Notebook
-- 📓 Google Colab
-- 📑 Microsoft Office
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Data Analysis
+* Exploratory Data Analysis
+* Data Visualization
+* Feature Engineering
+* Machine Learning
+* Model Training & Evaluation
 
 ---
 
-## ⚡ Soft Skills
+## Business Intelligence
 
-- 🧩 Problem Solving
-- 🧠 Analytical Thinking
-- 🤝 Team Collaboration
-- 💬 Communication
-- 📚 Continuous Learning
+* Power BI
+* DAX
+* Tableau
 
 ---
 
-# 💼 Experience
+## Data Engineering
+
+* ETL
+* Data Cleaning
+* Data Validation
+* Data Quality Checks
+* Data Warehousing
+* SQL-based Data Pipelines
+* Python-based ETL
+
+---
+
+## Backend & Software Development
+
+* Spring Boot
+* Spring Boot Microservices
+* REST APIs
+* Hibernate
+* JPA
+* JDBC
+* Spring Cloud
+* Eureka
+* Feign
+* Resilience4j
+
+---
+
+## Frontend
+
+* Angular
+* React
+* TypeScript
+* HTML
+* CSS
+
+---
+
+## Databases
+
+* MySQL
+
+Only include MongoDB if it is genuinely present in my actual projects/profile. Do not include it simply because it appeared in the previous README.
+
+---
+
+## AI / Generative AI
+
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* RAG concepts
+* Large Language Models (LLMs)
+
+Do not claim advanced expertise in LLMs, Agentic AI or MLOps. If included, present them under "Currently Exploring" rather than as core expertise.
+
+---
+
+## Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+* Google Colab
+* Streamlit
+
+Do not include Azure unless it is actually supported by my current profile/projects.
+
+---
+
+# 💼 EXPERIENCE
+
+Create a professional experience section.
+
+IMPORTANT:
+
+DO NOT INCLUDE COFORGE.
+
+Do not mention Coforge anywhere in the Experience section.
+
+Only include these internships:
 
 ## 🤖 AI/ML Engineer Intern
 
-**🏢 Quadrant Resources Pvt. Ltd.**
+Company:
 
-📅 **December 2025 – January 2026**
+Quadrant Resources Pvt. Ltd.
 
-**Key Contributions**
+Period:
 
-- 🤖 Built Machine Learning workflows using Python.
-- 📊 Performed data preprocessing and feature engineering.
-- 🧠 Trained and evaluated Machine Learning models.
-- 📈 Conducted Exploratory Data Analysis (EDA).
+December 2025 – January 2026
+
+Responsibilities:
+
+* Built Machine Learning workflows using Python.
+* Performed data preprocessing and feature engineering.
+* Trained and evaluated Machine Learning models.
+* Conducted Exploratory Data Analysis.
+
+Do not add responsibilities that are not listed above.
 
 ---
 
 ## 📊 Data Engineering Intern
 
-**🏢 Quadrant Resources Pvt. Ltd.**
+Company:
 
-📅 **June 2025 – July 2025**
+Quadrant Resources Pvt. Ltd.
 
-**Key Contributions**
+Period:
 
-- ⚙️ Developed dynamic ETL pipelines.
-- 📑 Generated statistical metadata automatically.
-- 🧹 Cleaned and validated structured datasets.
-- 📊 Automated reporting and visualizations.
+June 2025 – July 2025
+
+Responsibilities:
+
+* Developed dynamic ETL pipelines.
+* Generated statistical metadata automatically.
+* Cleaned and validated structured datasets.
+* Automated reporting and visualizations.
+
+Do not invent additional tools or technologies.
 
 ---
 
 ## 📈 Data Analytics Intern
 
-**🏢 Future Interns**
+Company:
 
-📅 **July 2025**
+Future Interns
 
-**Key Contributions**
+Period:
 
-- 📊 Built interactive Power BI dashboards.
-- 📑 Created DAX measures and calculated columns.
-- 📈 Analyzed business datasets to identify trends and business insights.
+July 2025
 
----
+Responsibilities:
 
-# 🚀 Featured Projects
+* Built interactive Power BI dashboards.
+* Created DAX measures and calculated columns.
+* Analyzed business datasets to identify trends and insights.
 
-## 🚗 RoadCodeX — Virtual Driving School
-
-> **Unity-based 3D Driving Simulator**
-
-### 🛠️ Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark"/>
-</p>
-
-### ✨ Highlights
-
-- 🚗 Developed an interactive 3D driving simulator.
-- 🎮 Designed realistic vehicle controls and physics.
-- 🚧 Implemented collision detection.
-- 🖥️ Built an interactive user interface.
+Keep these internship descriptions concise and achievement-oriented.
 
 ---
 
-## 📊 Business Sales Dashboard
+# 🚀 FEATURED PROJECTS
 
-> **Interactive Business Intelligence Dashboard**
+This is one of the MOST IMPORTANT sections of the profile.
 
-### 🛠️ Tech Stack
+Create a visually impressive project showcase using cards, tables, icons, or clean sections.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-</p>
+Do NOT invent project features.
 
-### ✨ Highlights
-
-- 📊 Built interactive Power BI dashboards.
-- 📑 Developed DAX measures.
-- 📈 Created KPI reports and business insights.
-- 📉 Designed effective data visualizations.
+My completed projects are:
 
 ---
 
-## 🧹 Dynamic ETL Pipeline
+## 💳 FusionPay
 
-> **Automated Data Engineering Pipeline**
+Project type:
 
-### 🛠️ Technologies
+Full-Stack Finance Management System
 
-<p>
+Technologies:
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark"/>
+* Spring Boot
+* Spring Boot Microservices
+* Angular
+* MySQL
+* Hibernate / JPA
+* REST APIs
+* Spring Cloud
+* Eureka
+* Feign
+* Resilience4j
 
-</p>
+Known implementation details:
 
-### ✨ Features
+* Built a full-stack finance management system.
+* Implemented REST APIs.
+* Used Hibernate/JPA for database interaction.
+* Implemented microservice architecture.
+* Used service discovery.
+* Implemented inter-service communication.
 
-- ⚙️ Dynamic Data Cleaning
-- 📑 Metadata Generation
-- ✅ Dataset Validation
-- 📊 Statistical Analysis
-- 📄 JSON Metadata Reports
-- 📈 Automated Visualizations
+Present FusionPay as one of my strongest software-development projects.
 
----
+Do not call it "Finance Management System" as the project title.
 
-## 💡 Core Expertise
+The exact project title is:
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Model Training & Evaluation
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Analytics
-
-- Power BI Dashboards
-- Business Intelligence
-- KPI Reporting
-- Data Visualization
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### ⚙️ Data Engineering
-
-- ETL Pipelines
-- Data Cleaning
-- Metadata Generation
-- Dataset Validation
-
-</td>
-
-<td width="50%">
-
-### 💻 Software Development
-
-- Python Automation
-- Java Programming
-- SQL Development
-- Problem Solving
-
-</td>
-
-</tr>
-
-</table>
+"FusionPay"
 
 ---
 
-# 🏆 Certifications
+## 🏦 MQTT Bank Project
+
+Use the project title:
+
+"MQTT Bank Project"
+
+Present it as a completed banking-related project involving MQTT.
+
+Do NOT invent additional functionality, architecture, features or technologies that have not been explicitly provided.
+
+If details are needed, keep the description general rather than making assumptions.
+
+---
+
+## 🚗 RoadCodex
+
+Use the exact project title:
+
+"RoadCodex"
+
+This is a completed project.
+
+Do not invent features or technical details.
+
+Use only the information already provided.
+
+If the exact technical implementation is not known, keep the description concise and avoid fabricated claims.
+
+---
+
+## 🔄 ETL Project
+
+Present this as one of my strongest Data Engineering projects.
+
+Technologies:
+
+* Python
+* MySQL
+* SQL
+* SQLAlchemy
+* PyMySQL
+* pytest
+
+Known components:
+
+* Staging tables
+* Data warehouse loading
+* ETL pipeline
+* Data quality checks
+* Data reconciliation
+* Data validation
+
+Known successful result:
+
+* Processed 271 records.
+* Completed 31 data-quality checks.
+* 31/31 checks passed.
+* ETL and data warehouse loading completed successfully.
+
+Present these numbers as actual project results, but do not overstate them.
+
+The project should visually communicate:
+
+Python → Staging → Transformation → Data Warehouse → Data Quality → Reconciliation
+
+If a simple architecture diagram can be represented in Markdown, use one.
+
+---
+
+## 📊 E-Commerce Sales Dashboard
+
+Use the exact project title:
+
+"E-Commerce Sales Dashboard"
+
+Technology:
+
+* Power BI
+
+Purpose:
+
+* Analyze e-commerce sales data.
+* Present KPIs and business insights.
+* Create interactive visualizations.
+
+Do not rename this project to "Business Sales Dashboard".
+
+---
+
+## 🎓 Student Event Feedback Analysis Dashboard
+
+Use the exact project title:
+
+"Student Event Feedback Analysis Dashboard"
+
+Technology:
+
+* Power BI / Data Analytics tools only if actually used.
+
+Purpose:
+
+* Analyze student event feedback.
+* Present insights through an interactive dashboard.
+
+Do not invent metrics or findings.
+
+---
+
+## 📱 Interactive Instagram Performance Tracker Dashboard
+
+Use the exact project title:
+
+"Interactive Instagram Performance Tracker Dashboard"
+
+Present it as a dashboard focused on tracking and analyzing Instagram performance.
+
+Do not invent specific metrics unless they are already available in the actual project.
+
+---
+
+# ⭐ PROJECT PRESENTATION
+
+Do not give every project an enormous section.
+
+Use a hierarchy:
+
+### Featured / strongest projects
+
+1. FusionPay
+2. ETL Project
+3. MQTT Bank Project
+4. RoadCodex
+
+### Data Analytics Projects
+
+5. E-Commerce Sales Dashboard
+6. Student Event Feedback Analysis Dashboard
+7. Interactive Instagram Performance Tracker Dashboard
+
+This creates a much cleaner profile.
+
+Each project card should contain:
+
+* Project title
+* One-line description
+* Technology badges
+* 2–4 concise highlights
+* GitHub repository button
+
+Use placeholders for repository links:
+
+[View Repository]
+
+Do NOT invent repository URLs.
+
+---
+
+# 📊 DATA & ANALYTICS SHOWCASE
+
+Create a dedicated section showing that I have hands-on experience with data.
+
+Highlight:
+
+📊 Power BI
+
+🗄️ SQL / MySQL
+
+🐍 Python
+
+🐼 Pandas
+
+🔢 NumPy
+
+📈 Data Visualization
+
+⚙️ ETL
+
+🧹 Data Cleaning
+
+✅ Data Quality
+
+Connect this section visually to:
+
+* ETL Project
+* E-Commerce Sales Dashboard
+* Student Event Feedback Analysis Dashboard
+* Interactive Instagram Performance Tracker Dashboard
+
+---
+
+# 💻 SOFTWARE DEVELOPMENT SHOWCASE
+
+Create another compact section showing my software development capabilities.
+
+Highlight:
+
+* Java
+* Spring Boot
+* Microservices
+* REST APIs
+* Hibernate / JPA
+* Angular
+* React
+* MySQL
+* Service Discovery
+* Inter-service Communication
+
+Connect this section primarily to:
+
+FusionPay
+
+Do not make claims beyond the actual project information.
+
+---
+
+# 🏆 HACKATHONS
+
+Create a clean section for:
+
+🏆 Smart India Hackathon 2025
+
+🏆 Devnovate Hackathon
+
+Do not invent rankings, prizes, finalist status or awards.
+
+---
+
+# 📜 CERTIFICATIONS
+
+Create a professional certification section.
+
+Include EXACTLY these certifications:
 
 🏅 AWS Certified CloudOps Engineer – Associate
 
 🏅 Salesforce Certified Agentforce Specialist
 
----
+Do not add Oracle Cloud Infrastructure AI Foundations Associate unless it is confirmed as one of my certifications in the final profile.
 
-# 📈 GitHub Contribution Graph
+Do not invent certification dates, credential IDs or verification links.
 
-<p align="center">
-
-[![Kirthana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirthana270405&theme=tokyo-night&hide_border=true)](https://github.com/Kirthana270405)
-
-</p>
+If links are needed, use placeholders.
 
 ---
 
-# 📊 GitHub Profile Summary
+# 🧩 LEETCODE / PROBLEM SOLVING
 
-<p align="center">
+Create a visually attractive but simple coding section.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirthana270405&theme=tokyonight"/>
+Current achievement:
 
-</p>
+🧩 150+ LeetCode Problems Solved
 
-<p align="center">
+Add a button:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirthana270405&theme=tokyonight"/>
+"View LeetCode Profile"
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kirthana270405&theme=tokyonight"/>
+Use a placeholder for the URL.
 
-</p>
+Do NOT invent:
 
----
+* LeetCode rating
+* Contest rating
+* Global ranking
+* Badges
+* Contest participation
+* Streak
+* Acceptance rate
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kirthana270405&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kirthana270405&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kirthana270405&theme=tokyonight"/>
-
-</p>
+Only show the 150+ problems solved figure.
 
 ---
 
-# 🎯 Current Focus
+# 📈 GITHUB STATISTICS
 
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🛠️ Data Engineering
-- 📈 Machine Learning
-- 📉 Business Intelligence
-- ⚡ Generative AI
-- 🧠 Large Language Models (LLMs)
-- ☁️ Cloud Computing
+Include GitHub statistics only if they actually work.
+
+Possible components:
+
+* GitHub contribution graph
+* GitHub profile summary
+* Top languages
+* GitHub statistics
+* Contribution streak
+
+Use a tasteful layout.
+
+IMPORTANT:
+
+Do not create fake statistics.
+
+Do not display arbitrary numbers such as:
+
+"500+ contributions"
+"50+ repositories"
+"10k profile views"
+
+unless GitHub dynamically provides them.
+
+Avoid making the statistics section dominate the profile.
+
+The projects and technical skills should remain the focus.
 
 ---
 
-# 📫 Connect With Me
+# 🌱 CURRENTLY LEARNING
 
-📧 **Email:** **kkirthi2005@gmail.com**
+Create a small "Currently Exploring" section.
 
-💼 **LinkedIn:** https://linkedin.com/in/saikirthanakonduru
+Include:
 
-🐙 **GitHub:** https://github.com/Kirthana270405
+* Generative AI
+* Large Language Models
+* RAG
+* Agentic AI concepts
+* Advanced Machine Learning
+* Cloud Computing
+* MLOps concepts
+
+IMPORTANT:
+
+These should be clearly presented as areas I am currently exploring/learning, NOT as technologies in which I claim professional expertise.
 
 ---
 
-<p align="center">
+# 📫 CONNECT WITH ME
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer"/>
+Create a clean contact section with attractive badges/buttons for:
 
-</p>
+GitHub:
+https://github.com/Kirthana270405
 
-<h3 align="center">
+LinkedIn:
+https://www.linkedin.com/in/saikirthanakonduru
 
-⭐ Building intelligent solutions through AI, Data Analytics, and continuous learning.
+Email:
+[kkirthi2005@gmail.com](mailto:kkirthi2005@gmail.com)
 
-</h3>
+LeetCode:
+
+Use a placeholder because the exact profile URL has not been provided.
+
+Do not create fake links.
+
+---
+
+# 🎨 VISUAL DESIGN REQUIREMENTS
+
+The profile should feel:
+
+* Premium
+* Modern
+* Professional
+* Clean
+* Technical
+* Recruiter-friendly
+* Visually balanced
+
+Use a consistent dark/modern developer aesthetic.
+
+Use:
+
+* Clean section hierarchy
+* Subtle emojis
+* Technology badges
+* GitHub-compatible icons
+* Cards/tables where useful
+* Horizontal separators
+* Centered hero section
+* Professional buttons
+* Consistent spacing
+* Contribution graph
+* Project cards
+* Small visual highlights
+
+Do NOT make it childish.
+
+Do NOT overload the README with emojis.
+
+Do NOT use huge paragraphs.
+
+Do NOT use skill percentage bars.
+
+Do NOT use fake progress bars.
+
+Do NOT use random motivational quotes.
+
+Do NOT use excessive GIFs.
+
+Do NOT make every section gigantic.
+
+The README should be easy for a recruiter to scan in under one minute.
+
+---
+
+# 🧭 RECOMMENDED VISUAL ORDER
+
+Use this approximate structure:
+
+1. Animated Hero Header
+2. Name + Professional Tagline
+3. Profile Views / GitHub / LinkedIn / Email buttons
+4. About Me
+5. Quick Highlights
+6. Technical Skills
+7. Experience
+8. Featured Projects
+9. Data & Analytics
+10. Software Development
+11. Certifications
+12. Hackathons
+13. LeetCode / Problem Solving
+14. Currently Exploring
+15. GitHub Statistics / Contribution Graph
+16. Connect With Me
+17. Minimal Footer
+
+The profile should flow naturally rather than feeling like a resume copied into Markdown.
+
+---
+
+# 🎯 OVERALL IMPRESSION
+
+When a recruiter opens my GitHub profile, the immediate impression should be:
+
+"This is a serious AI & Data Science student with practical experience in AI/ML, data analytics, ETL/data engineering, dashboards, backend development and microservices."
+
+The profile should emphasize that I have actually BUILT things.
+
+Prioritize:
+
+REAL PROJECTS > VISUAL CLUTTER
+
+REAL SKILLS > HUGE TECHNOLOGY LISTS
+
+REAL ACHIEVEMENTS > FAKE METRICS
+
+QUALITY > QUANTITY
+
+The final README should be completely ready to paste into:
+
+GitHub → Profile Repository → README.md
+
+Make the final result substantially cleaner and more professional than the current README while retaining a visually rich, impressive developer-profile appearance.
