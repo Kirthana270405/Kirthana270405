@@ -90,7 +90,7 @@
 
 </p>
 
-`Python` · `Java` · `JavaScript` · `TypeScript` · `SQL`
+
 
 ### 🎨 Frontend
 
@@ -103,7 +103,7 @@
 
 </p>
 
-`HTML` · `CSS` · `Angular` · `Bootstrap`
+
 
 ### ⚙️ Backend
 
@@ -116,7 +116,7 @@
 
 </p>
 
-`Node.js` · `Express.js` · `FastAPI` · `REST APIs`
+
 
 ### 🗄️ Databases
 
@@ -128,7 +128,7 @@
 
 </p>
 
-`MySQL` · `MongoDB` · `PostgreSQL`
+
 
 ### 🤖 AI / Data Science
 
@@ -150,7 +150,6 @@
 
 </p>
 
-`Artificial Intelligence` · `Machine Learning` · `Data Analytics` · `Data Science` · `Data Visualization` · `Data Cleaning` · `Feature Engineering` · `Model Training & Evaluation`
 
 ### 🔧 Tools
 
@@ -165,7 +164,7 @@
 
 </p>
 
-`Git` · `GitHub` · `VS Code` · `Postman` · `Linux` · `Google Colab`
+
 
 ---
 
